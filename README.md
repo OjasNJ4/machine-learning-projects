@@ -1,5 +1,3 @@
-# machine-learning-projects
-
 # Movie Recommendation System using Streamlit
 
 ## Description
@@ -43,6 +41,8 @@ The project uses the MovieLens dataset, which contains movie metadata and user r
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Author
+- Ojas Joshi
+- ojasnj4@gmail.com
 
-Feel free to adapt and expand upon this README according to your project's specific requirements.
+---
